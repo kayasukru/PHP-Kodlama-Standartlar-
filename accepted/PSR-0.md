@@ -1,7 +1,7 @@
 Otomatik Yükleme Standardı
 ==========================
 
-> **Kaldırıldı** PSR-0 - 2014-10-21 tarihinde kaldırıldı. Alternatif olarak [PSR-4] önerilmektedir.
+> **Kaldırıldı**. PSR-0 - 2014-10-21 tarihinde kaldırıldı. Alternatif olarak [PSR-4] önerilmektedir.
 
 [PSR-4]: http://www.php-fig.org/psr/psr-4/
 
