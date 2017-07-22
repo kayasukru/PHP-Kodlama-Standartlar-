@@ -1,5 +1,5 @@
-Autoloading Standard
-====================
+Otomatik Yükleme Standardı
+==========================
 
 > **Kaldırıldı** PSR-0 - 2014-10-21 tarihinde kaldırıldı. Alternatif olarak [PSR-4] önerilmektedir.
 
