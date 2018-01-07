@@ -1,12 +1,12 @@
-# PHP Standard Recommendations
+# PHP Standart Önerileri
 
-According to the [PSR Workflow Bylaw][workflow] each PSR has a status as it is being worked on. Once a proposal has passed the Entrance Vote it will be listed here as "Draft". Unless a PSR is marked as "Accepted" it is subject to change. Draft can change drastically, but Review will only have minor changes.
+Her bir PSR'nin [PSR İş Akışı Yönetmeliği] [iş akışı] üzerinde çalıştığı gibi bir statüye sahip. Bir öneri Giriş Oyunu geçtikten sonra burada "Taslak" olarak listelenecektir. Bir PSR "Kabul Edildi" olarak işaretlenmedikçe değiştirilebilir. Taslak çok değişebilir, ancak İnceleme yalnızca ufak değişiklikler yapacaktır. 
 
-As also described in the [PSR Workflow Bylaw][workflow]. The Editor, or editors, of a proposal are the essentially the lead contributors and writers of the PSRs and they are supported by two voting members. Those voting members are the Coordinator who is responsible for managing the review stage and votes; and a second sponsor.
+Aynı zamanda [PSR İş Akışı Yönergesi] [iş akışı] da açıklandığı gibi. Bir önerinin editörü ya da editörleri, PSR'lerin başlıca katkıda bulunduğu ve yazarlarıdır ve iki oylama üyesi tarafından desteklenmektedir. Oylama yapan üye, inceleme aşamasını ve oylarını yöneten sorumlu Koordinatördür; ve ikinci bir sponsor.
 
-## Index by Status
+## Durum Dizini
 
-### Accepted
+### Kabul edilmiş
 
 | Num | Title                          | Editor                         |  Coordinator            | Sponsor          |
 |:---:|--------------------------------|--------------------------------|-------------------------|------------------|
@@ -20,13 +20,13 @@ As also described in the [PSR Workflow Bylaw][workflow]. The Editor, or editors,
 | 13  | [Hypermedia Links][psr13]      | Larry Garfield                 | Matthew Weier O'Phinney | Marc Alexander   |
 | 16  | [Simple Cache][psr16]          | Paul Dragoonis                 | Jordi Boggiano          | Fabien Potencier |
 
-### Review
+### Gözden geçirme
 
 | Num | Title                          | Editor                  |  Coordinator            | Sponsor           |
 |:---:|--------------------------------|-------------------------|-------------------------|-------------------|
 | N/A | N/A                            | N/A                     | N/A                     | N/A               |
 
-### Draft
+### Taslak
 
 | Num | Title                                | Editor(s)                      |  Coordinator            | Sponsor           |
 |:---:|--------------------------------------|--------------------------------|-------------------------|-------------------|
@@ -39,13 +39,13 @@ As also described in the [PSR Workflow Bylaw][workflow]. The Editor, or editors,
 | 15  | [HTTP Middlewares][psr15]            | Woody Gilk                     | Paul M Jones            | Jason Coward      |
 | 17  | [HTTP Factories][psr17]              | Woody Gilk                     | Roman Tsiupa            | Paul M Jones      |
 
-### Deprecated
+### Kullanımdan kaldırılan
 
 | Num | Title                          | Editor                  |  Coordinator  | Sponsor        |
 |:---:|--------------------------------|-------------------------|---------------|----------------|
 | 0   | [Autoloading Standard][psr0]   | Matthew Weier O'Phinney | _N/A_         | _N/A_          |
 
-## Numerical Index
+## Sayısal Dizin
 
 | Status | Num | Title                                | Editor(s)                      |  Coordinator            | Sponsor           |
 |--------|:---:|--------------------------------------|--------------------------------|-------------------------|-------------------|
